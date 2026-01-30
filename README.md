@@ -9,7 +9,7 @@
 # Improvement is needed without retraining the model
 
 # Dataset obtained using Roboflow
-# Programming Language: Python Deep Learning Framework: PyTorch Object Detection Model: YOLOv11 Dataset Tool: Roboflow Small Object Enhancement: SAHI (Slicing Aided Hyper Inference) Platform: Google Colab
+# Programming Language: Python , Deep Learning Framework: PyTorch , Object Detection Model: YOLOv11 , Dataset Tool: Roboflow ,Small Object Enhancement: SAHI (Slicing Aided Hyper Inference) , Platform: Google Colab
 
 # 1 Dataset preparation using Roboflow.
 # 2 Training YOLOv11 with pre-trained weights.
