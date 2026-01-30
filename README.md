@@ -1,4 +1,4 @@
-# YOLOv11-and-SAHI (Slicing Aided Hyper Inference)-for-improved-small-object-detection-
+# YOLOv11-and-SAHI (Slicing Aided Hyper Inference)-for-improved-small-object-detection- here i have trained yolo11 for Vehicle Detection in traffic space
 # Small object detection is a challenging task in computer vision.
 # Performance drops significantly for tiny objects.
 # project improves small object detection using YOLO and SAHI
